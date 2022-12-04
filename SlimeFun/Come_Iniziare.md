@@ -1,5 +1,6 @@
+
 layout: default
-title: SlimeFun: Come Iniziare
+title: 'SlimeFun: Come Iniziare'
 parent: SlimeFun
 
 ---
