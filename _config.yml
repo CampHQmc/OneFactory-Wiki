@@ -2,7 +2,7 @@ title: OneFactory Wiki
 description: La wiki ufficiale della OneFactory di CampHQ
 theme: just-the-docs
 
-url: https://onefactory.camphq.it
+url: "https://onefactory.camphq.it"
 baseurl: "/docs"
 
 # aux_links:
