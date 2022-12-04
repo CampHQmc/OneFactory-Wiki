@@ -14,7 +14,7 @@ graph TD
     Z --> C(Sifted Ore)
     Z --> F(Stone Chunk)
     F -->|Compressor| A
-    C -->|Ore Washer| D(Polvere di X \nMateriale)
+    C -->|Ore Washer| D(Polvere di X Materiale)
     D -->|Smeltery| E(Lingotto di X)
 ```
 Compreso questo diagramma, possiamo iniziare a parlare dei macchinari:
