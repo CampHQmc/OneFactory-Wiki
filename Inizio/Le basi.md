@@ -1,7 +1,7 @@
+---
 layout: default
 title: Le basi
 parent: Inizio
-
 ---
 
 # Le basi
