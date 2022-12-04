@@ -1,3 +1,6 @@
+layout: default
+title: Le basi
+nav_order: 0
 
 ---
 
