@@ -1,6 +1,6 @@
 layout: default
 title: SlimeFun: Come Iniziare
-nav_order: 1
+parent: SlimeFun
 
 ---
 
