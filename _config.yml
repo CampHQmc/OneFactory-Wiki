@@ -5,10 +5,11 @@ theme: just-the-docs
 url: "https://onefactory.camphq.it"
 baseurl: "/docs"
 
-# aux_links:
-#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+color_scheme: dark
 permalink: pretty
+
+aux_links:
+  Collabora alla Wiki: https://github.com/CampHQmc/OneFactory-Wiki
 
 search_enabled: true
 search:
